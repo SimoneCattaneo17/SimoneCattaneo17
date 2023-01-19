@@ -3,7 +3,6 @@
 - 📚 Currently studying Computer Science at ITIS Paleocapa, Bergamo
 - 💻 Learnig C# and PHP right now
 - 🚧 Working on <a href=https://github.com/SimoneCattaneo17/BackLog>BackLog</a>
-- 🌍 You can find my website at <a href="http://cattaneo-simone.it">cattaneo-simone.it</a> (work in progress)
 <!-- - 📫 Contact me at <a href="mailto:cattaneo.simone1708@gmail.com">cattaneo.simone1708@gmail.com</a> -->
 
 
