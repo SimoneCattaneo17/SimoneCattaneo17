@@ -2,7 +2,7 @@
 
 - 📚 Currently studying Computer Science at ITIS Paleocapa, Bergamo
 - 💻 Learnig C# and PHP right now
-- 🚧 Working on <a href=https://github.com/SimoneCattaneo17/BackLog>BackLog</a>
+- 🚧 Working on <a href=https://github.com/SimoneCattaneo17/MangaLog>MangaLog</a>
 <!-- - 📫 Contact me at <a href="mailto:cattaneo.simone1708@gmail.com">cattaneo.simone1708@gmail.com</a> -->
 
 
