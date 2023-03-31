@@ -37,10 +37,10 @@
 </a>
 
 <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/M/markdown-logo-102FDA095E-seeklogo.com.png?v=637829616810000000" alt="Markdown" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" rel="noreferrer">
-  <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="40" height="40"/>
 </a>
 
 
