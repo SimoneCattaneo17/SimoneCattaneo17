@@ -2,7 +2,7 @@
 
 - 📚 Studied Computer Science at ITIS Paleocapa, Bergamo
 - 💻 Working as a System Administrator right now
-- 🚧 Not really working on anything right now, I sometimes code in my freetime, hope to start a new project soon!
+- 🚧 As of now I'm working on programs that can improve my, and hopefully many others', job as a System Administrator
 <!-- - 📫 Contact me at <a href="mailto:cattaneo.simone1708@gmail.com">cattaneo.simone1708@gmail.com</a> -->
 
 
